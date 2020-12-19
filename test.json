@@ -1,0 +1,794 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "JxqcrW4T_9R34pe6wPeOd1Ci2QA",
+  "prevPageToken": "CDIQAQ",
+  "regionCode": "JP",
+  "pageInfo": {
+    "totalResults": 80,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ltmETg7Ez1hZVFWih07Pdvu89JY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7w2KLW7d1vQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-21T22:00:04Z",
+        "channelId": "UCajrdoGzHzDogrNrLYYmGsg",
+        "title": "アジャイル開発を理解することが市場価値を上げる！　アジャイルをちゃんと理解しよう！後半",
+        "description": "教育系エンジニアのやっすんが、アジャイル開発について解説します！ Twitterフォローお願いします！ https://twitter.com/yassun_youtuber 今回はプロジェクト運営 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7w2KLW7d1vQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7w2KLW7d1vQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7w2KLW7d1vQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やっすんのエンジニア大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-21T22:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Lb4Q-biCjTEUnRFh-X7oQyk25kU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M5smdjUNr_w"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-20T22:00:03Z",
+        "channelId": "UCajrdoGzHzDogrNrLYYmGsg",
+        "title": "アジャイル開発を理解することが市場価値を上げる！　アジャイルをちゃんと理解しよう！前半",
+        "description": "教育系エンジニアのやっすんが、アジャイル開発について解説します！ Twitterフォローお願いします！ https://twitter.com/yassun_youtuber 今回は - 知っておこう！",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M5smdjUNr_w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M5smdjUNr_w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M5smdjUNr_w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やっすんのエンジニア大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-20T22:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k8Guqn67J5IzyuR1OkICG29-HbI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W0iWTQB94tg"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-19T22:00:12Z",
+        "channelId": "UCajrdoGzHzDogrNrLYYmGsg",
+        "title": "GitHub for mobileがさらに使いやすく！ Laravel 新メソッド追加！ Google Ads API リリース！【やっすんのエンジニアNews】",
+        "description": "教育系エンジニアのやっすんが、先週のエンジニア向けのニュースを紹介します！ Twitterフォローお願いします！ https://twitter.com/yassun_youtuber 今回は - GitHub for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W0iWTQB94tg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W0iWTQB94tg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W0iWTQB94tg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やっすんのエンジニア大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-19T22:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3TxwCYjfJ3f28EXe8E6ij_ulRbU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tnNigH6bHNw"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-19T05:52:46Z",
+        "channelId": "UCajrdoGzHzDogrNrLYYmGsg",
+        "title": "まだVMで消耗してるの？ Dockerの良い所、関連用語の解説！",
+        "description": "教育系エンジニアのやっすんが、Dockerの利用例や関連用語を紹介します！ - Dockerとは？ - Dockerの使い所 - Docker関連の用語説明 Twitterフォローお願いします！",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tnNigH6bHNw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tnNigH6bHNw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tnNigH6bHNw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やっすんのエンジニア大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-19T05:52:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WLMH-n1GiafWb67B370grWg75X8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1gjqB8QrGPk"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-17T22:00:01Z",
+        "channelId": "UCajrdoGzHzDogrNrLYYmGsg",
+        "title": "実は使える？！ MySQLで全文検索！",
+        "description": "教育系エンジニアのやっすんが、MySQLでの全文検索について紹介します！ - 全文検索とは？ - 実行方法と検索モード - BOOLEAN MODEでの演算子の使い方 Twitter ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1gjqB8QrGPk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1gjqB8QrGPk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1gjqB8QrGPk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やっすんのエンジニア大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-17T22:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gE1JrvUBqxDWQo4oSCFgIqL9Ddg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z0O256mOYKU"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-17T06:38:58Z",
+        "channelId": "UCajrdoGzHzDogrNrLYYmGsg",
+        "title": "【生放送アーカイブ】 Rust でWeb開発に入門しました② 苦しみながらデータベースにアクセス…大変でした…",
+        "description": "教育系エンジニアのやっすんが、RustでWeb開発に入門します！ Twitterフォローお願いします！ https://twitter.com/yassun_youtuber 今回は次の内容を行いました。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z0O256mOYKU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z0O256mOYKU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z0O256mOYKU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やっすんのエンジニア大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-17T06:38:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OHSPjgYT1N3TqpKEFEnS7MPySMM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "exsRf1Xufgc"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-15T22:00:06Z",
+        "channelId": "UCajrdoGzHzDogrNrLYYmGsg",
+        "title": "基本情報技術者試験 探索アルゴリズム についての紹介！ 線形探索法 二分探索法 ハッシュ法",
+        "description": "教育系エンジニアのやっすんが、基本情報技術者試験で出る探索アルゴリズムの説明をします！ Twitterフォローお願いします！ https://twitter.com/yassun_youtuber 今回 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/exsRf1Xufgc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/exsRf1Xufgc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/exsRf1Xufgc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やっすんのエンジニア大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-15T22:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BfIVLr54yljFgIZ_H5JJAEqtkAI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "07AJ3NvoWdM"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-14T22:00:01Z",
+        "channelId": "UCajrdoGzHzDogrNrLYYmGsg",
+        "title": "意外と知らない！ AWS の世界を変える可能性をもつ5つのサービス！！",
+        "description": "教育系エンジニアのやっすんが、AWSの世界を変える (かもしれない) 面白いサービスを紹介します！ Twitterフォローお願いします！ https://twitter.com/yassun_youtuber ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/07AJ3NvoWdM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/07AJ3NvoWdM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/07AJ3NvoWdM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やっすんのエンジニア大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-14T22:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YwE2Qg6hy93ukR_Rgarkm27-Vco",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ggA78kyd9Sg"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-13T22:00:13Z",
+        "channelId": "UCajrdoGzHzDogrNrLYYmGsg",
+        "title": "基本情報技術者 入門。プログラムが実行される仕組みとデータ構造【やっすんのエンジニアTips】",
+        "description": "教育系エンジニアのやっすんが、基本情報技術者試験の解説をします！ 今回は、プログラムの仕組みやデータ構造について紹介します！ Twitterフォローお願いします！",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ggA78kyd9Sg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ggA78kyd9Sg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ggA78kyd9Sg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やっすんのエンジニア大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-13T22:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uY1FA-KEsC8Wt1nKmimBP-EYtfU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mfhJb15umYU"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-13T12:33:32Z",
+        "channelId": "UCajrdoGzHzDogrNrLYYmGsg",
+        "title": "【生放送アーカイブ】やっすんと一緒に Rust に入門しましょう。Web開発編【やっすんのエンジニアTips】",
+        "description": "今回やったことのログです！↓ ## Rust の フレームワーク選出 ### GitHub のスター数比較 Iron ⇒ 5.8k Rocket ⇒ 11.6k Nickel ⇒ 2.8k ⇒ Rocketを試していくことに決定 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mfhJb15umYU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mfhJb15umYU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mfhJb15umYU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やっすんのエンジニア大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-13T12:33:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "udlctWvPMBsvqCI6-JYNJJOF3LU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7ZV8CjbHvhg"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-12T22:00:01Z",
+        "channelId": "UCajrdoGzHzDogrNrLYYmGsg",
+        "title": "未来が目前に？！完全自動ロボタクシー！ Python 3.9.0 , Dart 2.10 リリース【やっすんのエンジニアNews】",
+        "description": "教育系エンジニアのやっすんが、先週のエンジニア向けのニュースを紹介します！ Twitterフォローお願いします！ https://twitter.com/yassun_youtuber 今回は - Waymo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7ZV8CjbHvhg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7ZV8CjbHvhg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7ZV8CjbHvhg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やっすんのエンジニア大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-12T22:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WhS4R8fHSs3XgMlLVS3Z7Nw7qFw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ujBpjIF3nq0"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-12T03:00:05Z",
+        "channelId": "UCajrdoGzHzDogrNrLYYmGsg",
+        "title": "エンジニアの必需品！ Mac 用便利ツール Alfred の紹介 【やっすんのエンジニアTips】",
+        "description": "今回は絶対に使ったほうが良いツール Alfred を紹介しました！ Twitterフォローお願いします！ https://twitter.com/yassun_youtuber いろいろな機能があります！",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ujBpjIF3nq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ujBpjIF3nq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ujBpjIF3nq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やっすんのエンジニア大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-12T03:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NqOVwRjjrzgtLAp3hOWFKx-Pmbg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YK8JrGEuw8o"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-11T00:30:01Z",
+        "channelId": "UCajrdoGzHzDogrNrLYYmGsg",
+        "title": "MySQL みんながよくわかっていない Collation について解説します！ 並び替えに使うよ！【やっすんのエンジニアTips】",
+        "description": "教育系エンジニアのやっすんが、MySQLのCollationについて紹介します！ Twitterフォローお願いします！ https://twitter.com/yassun_youtuber 今回はみんながよく知ら ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YK8JrGEuw8o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YK8JrGEuw8o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YK8JrGEuw8o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やっすんのエンジニア大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-11T00:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c2GS4zhi_IQ93IYj2KoWvdJLvY4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k3SgY3K1CqY"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-10T00:00:11Z",
+        "channelId": "UCajrdoGzHzDogrNrLYYmGsg",
+        "title": "HTTPの用語解説 ブラウザキャッシュの使わせ方や HTTPのヘッダ、リダイレクトの仕組み知ってますか？ 【やっすんのエンジニア大学】",
+        "description": "教育系エンジニアのやっすんが、先週のエンジニア向けのニュースを紹介します！ Twitterフォローお願いします！ https://twitter.com/yassun_youtuber 今回は - リダイレクト ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k3SgY3K1CqY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k3SgY3K1CqY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k3SgY3K1CqY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やっすんのエンジニア大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-10T00:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TYaB_NBEhoWX7qWmuBpt6aY5vbk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sIGrsliVj4U"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-08T22:00:08Z",
+        "channelId": "UCajrdoGzHzDogrNrLYYmGsg",
+        "title": "JavaScript の”闇” this について解説します。",
+        "description": "教育系エンジニアのやっすんが、先週のエンジニア向けのニュースを紹介します！ Twitterフォローお願いします！ https://twitter.com/yassun_youtuber JavaScript を使う上 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sIGrsliVj4U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sIGrsliVj4U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sIGrsliVj4U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やっすんのエンジニア大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-08T22:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rIdqFJLCe2iztZ3nKgmAmfECbUM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "psg7k6gn8FU"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-07T22:00:07Z",
+        "channelId": "UCajrdoGzHzDogrNrLYYmGsg",
+        "title": "GitHub が master を廃止！？ GitHub Code Scanning による自動脆弱性診断！ Ruby 2.7.2 リリース！  【やっすんのエンジニアNews】",
+        "description": "教育系エンジニアのやっすんが、先週のエンジニア向けのニュースを紹介します！ Twitterフォローお願いします！ https://twitter.com/yassun_youtuber 今回は - Ruby ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/psg7k6gn8FU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/psg7k6gn8FU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/psg7k6gn8FU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やっすんのエンジニア大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-07T22:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_9E6Nuv3sxcSeVND5PO4MWk_fsA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0hRh3ze2AJk"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-06T22:00:00Z",
+        "channelId": "UCajrdoGzHzDogrNrLYYmGsg",
+        "title": "NGINX に関する用語説明！ C10K問題、イベント駆動、プロキシ、リバースプロキシについて解説します。【やっすんのエンジニアTips】",
+        "description": "教育系エンジニアのやっすんが、Nginxについて解説します！ Twitterフォローお願いします！ https://twitter.com/yassun_youtuber NGINX に関連する用語の紹介しました。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0hRh3ze2AJk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0hRh3ze2AJk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0hRh3ze2AJk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やっすんのエンジニア大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-06T22:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sTvk8VjGzHS7ULTiVjGPftpzS28",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7H_foGxpRlY"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-05T22:00:01Z",
+        "channelId": "UCajrdoGzHzDogrNrLYYmGsg",
+        "title": "MySQL Tips バージョンはなぜ5から8に飛んだ？ Charset , Collation って何かを解説します。 【やっすんのエンジニアTips】",
+        "description": "教育系エンジニアのやっすんが、MySQLについて解説します！ Twitterフォローお願いします！ https://twitter.com/yassun_youtuber MySQLに関してのTipsを紹介しました ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7H_foGxpRlY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7H_foGxpRlY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7H_foGxpRlY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やっすんのエンジニア大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-05T22:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LfoXXPuwbleEQi9MilDFYbQ01LU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m1XknpF5x5s"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-04T22:00:08Z",
+        "channelId": "UCajrdoGzHzDogrNrLYYmGsg",
+        "title": "AWS VPC 関連の用語について解説します。 【やっすんのエンジニアTips】",
+        "description": "教育系エンジニアのやっすんが、毎日丁寧に解説します！ Twitterフォローお願いします！ https://twitter.com/yassun_youtuber AWS の VPC に関連する用語の説明をしま ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m1XknpF5x5s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m1XknpF5x5s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m1XknpF5x5s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やっすんのエンジニア大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-04T22:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VTiPp0yYSsh57C_er3JY2inDhOE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wf0BJMbkyV4"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-03T22:00:04Z",
+        "channelId": "UCajrdoGzHzDogrNrLYYmGsg",
+        "title": "NGINX locationの書き方 種類と優先度【やっすんのエンジニアTips】",
+        "description": "教育系エンジニアのやっすんが、毎日丁寧に解説します！ Twitterフォローお願いします！ https://twitter.com/yassun_youtuber NGINX の location の書き方 の種類と優先 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wf0BJMbkyV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wf0BJMbkyV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wf0BJMbkyV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やっすんのエンジニア大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-03T22:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tym6jaU1JbBFAIOsXFLCjKKEDuQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_JCjpNdUCJo"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-02T22:00:06Z",
+        "channelId": "UCajrdoGzHzDogrNrLYYmGsg",
+        "title": "GitHub CLI 正式リリース！ 使い方、便利コマンド紹介【やっすんのエンジニアTips】【最新ニュース】",
+        "description": "教育系エンジニアのやっすんの技術解説動画第三段！ 毎日更新目指します！！ Twitterフォローお願いします！ https://twitter.com/yassun_youtuber 今回は先日正式 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_JCjpNdUCJo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_JCjpNdUCJo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_JCjpNdUCJo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やっすんのエンジニア大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-02T22:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ny2tydJLKIRh64lLBoJ1li0RlgM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jJFFLbqghbk"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-01T22:00:07Z",
+        "channelId": "UCajrdoGzHzDogrNrLYYmGsg",
+        "title": "NGINX 使い方、パフォーマンスを上げる設定、設定ファイルの検証方法【やっすんのエンジニアTips】パート2",
+        "description": "教育系エンジニアのやっすんが、技術解説を行っています！毎日更新目指します！！ Twitterフォローお願いします！ https://twitter.com/yassun_youtuber 今回もNGINX ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jJFFLbqghbk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jJFFLbqghbk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jJFFLbqghbk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やっすんのエンジニア大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-01T22:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2QEci03lG8SfycWp1lXtOMfTgm8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5596pIxdIMo"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-30T22:00:01Z",
+        "channelId": "UCajrdoGzHzDogrNrLYYmGsg",
+        "title": "NGINX 使い方、設定ファイル、locationの書き方【やっすんのエンジニアTips】パート1",
+        "description": "NGINXの名前の由来、設定ファイル、locationの書き方を解説！ □ 目次 00:14 今日のテーマ ~ 名前の由来、設定ファイルの基礎、locationの書き方 ~ 00:26 Nginxの名前 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5596pIxdIMo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5596pIxdIMo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5596pIxdIMo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やっすんのエンジニア大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-30T22:00:01Z"
+      }
+    }
+  ]
+}
